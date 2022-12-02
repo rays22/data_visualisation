@@ -1,0 +1,14 @@
+outer_labels	outer_values	inner_labels	inner_values
+anatomical entity attribute	5376	morphology	938
+biological process attribute	970	amount	517
+attribute of cell	771	rate	129
+chemical entity attribute	300	length	115
+cellular component attribute	264	structure	103
+enzyme/coenzyme activity trait	70	functionality	92
+age of onset of disease or disorder	40	position	83
+other	27	shape	73
+		size	70
+		degeneration	67
+		mass	67
+		composition	61
+		other quality	859
